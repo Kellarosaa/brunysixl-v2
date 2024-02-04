@@ -93,6 +93,12 @@ h3 {
   color: white;
 }
 
+h4 {
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
 button {
   background: linear-gradient(to bottom, #000000, #000000); 
   color: #000; 
