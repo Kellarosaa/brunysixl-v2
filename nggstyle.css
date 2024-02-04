@@ -87,8 +87,8 @@ h2 {
   color: white;
 }
 button {
-  background: linear-gradient(to bottom, #616a70, #ffffff); 
-  color: #000; 
+  background: linear-gradient(to bottom, #000000, #000000); 
+  color: #ffffff; 
   font-weight: bold; 
   padding: 15px 20px; 
   border: none; 
