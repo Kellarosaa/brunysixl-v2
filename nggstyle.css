@@ -100,8 +100,8 @@ h4 {
 }
 
 button {
-  background: linear-gradient(to bottom, #000000, #000000); 
-  color: #fff; 
+  background: linear-gradient(to bottom, #ffffff, #000000); 
+  color: linear-gradient(to bottom, #000000, #ffffff); 
   font-weight: bold; 
   padding: 15px 20px; 
   border: #ffffff;
